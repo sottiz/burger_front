@@ -1,0 +1,54 @@
+.connexionForm {
+    margin-top: 500px;
+    width: 350px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.box {
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    margin-bottom: 10px;
+    flex-direction: column;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.connectButton {
+    width: 90px;
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    border: 1px solid #d5d5d5;
+    color: #d5d5d5;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 50px;
+}
+
+.connectButton:hover {
+    background-color: #fff;
+    color: #fff;
+    background-color: #d5d5d5;
+    color: #fff;
+    transform: 1s;
+    transition-duration: 0.2s;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

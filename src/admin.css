@@ -1,0 +1,19 @@
+.admin {
+    text-align: center;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.div_admin_choice {
+margin-top: 2%;
+}
+
+.btn_choice_admin {
+    margin-right: 2%;
+    text-decoration: none;
+    border: solid 2px grey;
+    border-radius: 30px;
+    padding: 1%;
+}

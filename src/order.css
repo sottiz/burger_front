@@ -1,0 +1,24 @@
+table {
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 4%;
+}
+
+th {
+    border: solid 1px grey;
+}
+
+td {
+    border: solid 1px grey;
+}
+
+.pen {
+    margin-right: 10%;
+    border: none;
+}
+
+.trash {
+    border: none;
+}
